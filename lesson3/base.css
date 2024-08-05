@@ -39,5 +39,6 @@ body {
 
 /* 上の部分は気にせずここから書く */
 .coffee{
-  margin:10px 450px 500px 450px;
+ width:50%;
+ margin:0 auto;
 }
